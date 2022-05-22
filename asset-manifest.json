@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TameesProject/static/css/main.0e136b11.css",
-    "main.js": "/TameesProject/static/js/main.3bbc5fe9.js",
+    "main.js": "/TameesProject/static/js/main.2667706c.js",
     "static/media/logo-tamees.png": "/TameesProject/static/media/logo-tamees.e5c08108c6bcd8fc3d4c.png",
     "static/media/Caesar Salad.jpg": "/TameesProject/static/media/Caesar Salad.a794d332f6374ba76a08.jpg",
     "static/media/PremiumQuality.png": "/TameesProject/static/media/PremiumQuality.a3845f54d2eb42eb032b.png",
@@ -13,10 +13,10 @@
     "static/media/pattern1.png": "/TameesProject/static/media/pattern1.393d4ed3be5e3e37ac9d.png",
     "index.html": "/TameesProject/index.html",
     "main.0e136b11.css.map": "/TameesProject/static/css/main.0e136b11.css.map",
-    "main.3bbc5fe9.js.map": "/TameesProject/static/js/main.3bbc5fe9.js.map"
+    "main.2667706c.js.map": "/TameesProject/static/js/main.2667706c.js.map"
   },
   "entrypoints": [
     "static/css/main.0e136b11.css",
-    "static/js/main.3bbc5fe9.js"
+    "static/js/main.2667706c.js"
   ]
 }
